@@ -1,0 +1,3 @@
+{"nombre":"dada","edad":"15","sexo":"Femenino"}
+{"nombre":"Mmguel","edad":"35","sexo":"Masculino"}
+{"nombre":"Mira Como Actualiza","edad":"10","sexo":"Femenino"}
